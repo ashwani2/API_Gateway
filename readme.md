@@ -4,12 +4,12 @@ This project demonstrates how to set up a simple Express server that serves a fr
 
 ## Project Structure
 
-project-root/
+```project-root/
 |-- main-server.js
 |-- frontend/
 | |-- index.html
 |-- backend-server.js
-|-- README.md
+|-- README.md```
 
 ## How to run it
 Run npm install
